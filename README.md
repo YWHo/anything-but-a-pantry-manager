@@ -1,5 +1,9 @@
 # anything-but-a-pantry-manager
 
+## link to the live page
+http://pantry-to-plate.herokuapp.com/
+
+
 # Kahu 2018 Final Project
 
 I often come home and have no energy to be creative enough to think of what to cook, I wish there was an app that could give me ideas and plan out meals around some of the food that needs to be eaten!
